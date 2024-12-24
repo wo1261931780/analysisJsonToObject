@@ -1,0 +1,78 @@
+{
+  "code": 200,
+  "router": "/api/v1/douyin/web/fetch_user_fans_portrait",
+  "params": {
+	"sec_uid": "MS4wLjABAAAAnAZ470wpLSSVC_K_Bj8i_XfnHndbDVAXth0tN96-OeY",
+	"option": "7"
+  },
+  "data": {
+	"user_id": "MS4wLjABAAAAnAZ470wpLSSVC_K_Bj8i_XfnHndbDVAXth0tN96-OeY",
+	"option": "7",
+	"portrait": {
+	  "portrait_data": [
+		{
+		  "value": 0.47746562237608225,
+		  "name": "苹果"
+		},
+		{
+		  "value": 0.18429709975360983,
+		  "name": "华为"
+		},
+		{
+		  "value": 0.10677641812000165,
+		  "name": "OPPO"
+		},
+		{
+		  "value": 0.09949758427507605,
+		  "name": "VIVO"
+		},
+		{
+		  "value": 0.06644275901939463,
+		  "name": "荣耀"
+		},
+		{
+		  "value": 0.045129320431113985,
+		  "name": "小米"
+		},
+		{
+		  "value": 0.020391196024721607,
+		  "name": "华为荣耀"
+		}
+	  ],
+	  "key": "苹果"
+	},
+	"portrait_tgi": {
+	  "portrait_data": [
+		{
+		  "value": 63.71869139946763,
+		  "name": "VIVO"
+		},
+		{
+		  "value": 95.72118159953108,
+		  "name": "华为"
+		},
+		{
+		  "value": 66.98324603800076,
+		  "name": "荣耀"
+		},
+		{
+		  "value": 58.960315914020775,
+		  "name": "华为荣耀"
+		},
+		{
+		  "value": 68.108601994786,
+		  "name": "OPPO"
+		},
+		{
+		  "value": 161.89675667696758,
+		  "name": "苹果"
+		},
+		{
+		  "value": 68.54180373417883,
+		  "name": "小米"
+		}
+	  ],
+	  "key": "苹果"
+	}
+  }
+}

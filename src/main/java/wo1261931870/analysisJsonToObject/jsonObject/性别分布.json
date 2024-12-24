@@ -1,0 +1,38 @@
+{
+  "code": 200,
+  "router": "/api/v1/douyin/web/fetch_user_fans_portrait",
+  "params": {
+	"sec_uid": "MS4wLjABAAAAnAZ470wpLSSVC_K_Bj8i_XfnHndbDVAXth0tN96-OeY",
+	"option": "2"
+  },
+  "data": {
+	"user_id": "MS4wLjABAAAAnAZ470wpLSSVC_K_Bj8i_XfnHndbDVAXth0tN96-OeY",
+	"option": "2",
+	"portrait": {
+	  "portrait_data": [
+		{
+		  "value": 0.7521313736269035,
+		  "name": "female"
+		},
+		{
+		  "value": 0.24786862637309648,
+		  "name": "male"
+		}
+	  ],
+	  "key": "female"
+	},
+	"portrait_tgi": {
+	  "portrait_data": [
+		{
+		  "value": 42.650114722600286,
+		  "name": "male"
+		},
+		{
+		  "value": 149.37697776845417,
+		  "name": "female"
+		}
+	  ],
+	  "key": "female"
+	}
+  }
+}

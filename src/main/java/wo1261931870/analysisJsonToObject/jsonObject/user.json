@@ -1,0 +1,59 @@
+{
+  "code": 200,
+  "router": "/api/v1/douyin/web/handler_user_profile_v2",
+  "params": {
+	"unique_id": "1810831999"
+  },
+  "data": {
+	"extra": {
+	  "logid": "20241211160224C92008DCCD20F703BC22",
+	  "now": 1733904144511
+	},
+	"status_code": 0,
+	"user_info": {
+	  "short_id": "1810831999",
+	  "nickname": "古天乐",
+	  "signature": "",
+	  "avatar_thumb": {
+		"uri": "aweme-avatar/tos-cn-avt-0015_1668aaa5097788bbdfd341cc89cda0b1",
+		"url_list": [
+		  "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1668aaa5097788bbdfd341cc89cda0b1.jpeg?from=2956013662",
+		  "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1668aaa5097788bbdfd341cc89cda0b1.jpeg?from=2956013662",
+		  "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1668aaa5097788bbdfd341cc89cda0b1.jpeg?from=2956013662"
+		]
+	  },
+	  "avatar_medium": {
+		"uri": "aweme-avatar/tos-cn-avt-0015_1668aaa5097788bbdfd341cc89cda0b1",
+		"url_list": [
+		  "https://p11.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1668aaa5097788bbdfd341cc89cda0b1.jpeg?from=2956013662",
+		  "https://p26.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1668aaa5097788bbdfd341cc89cda0b1.jpeg?from=2956013662",
+		  "https://p3.douyinpic.com/aweme/100x100/aweme-avatar/tos-cn-avt-0015_1668aaa5097788bbdfd341cc89cda0b1.jpeg?from=2956013662"
+		]
+	  },
+	  "follow_status": 0,
+	  "aweme_count": 63,
+	  "following_count": 4,
+	  "favoriting_count": 0,
+	  "total_favorited": "28273584",
+	  "custom_verify": "演员",
+	  "unique_id": "",
+	  "verification_type": 1,
+	  "original_musician": {
+		"music_count": 0,
+		"music_used_count": 0,
+		"digg_count": 0
+	  },
+	  "enterprise_verify_reason": "",
+	  "mplatform_followers_count": 6028000,
+	  "followers_detail": null,
+	  "platform_sync_info": null,
+	  "geofencing": null,
+	  "policy_version": null,
+	  "sec_uid": "MS4wLjABAAAA-Ab66WBOA5vV5PgASAGxAE62PK3fYOhZCrVR0q5X0qI",
+	  "type_label": null,
+	  "show_favorite_list": false,
+	  "card_entries": [],
+	  "mix_info": null
+	}
+  }
+}

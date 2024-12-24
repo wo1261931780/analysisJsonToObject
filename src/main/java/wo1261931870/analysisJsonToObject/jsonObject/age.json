@@ -1,0 +1,62 @@
+{
+    "code": 200,
+    "router": "/api/v1/douyin/web/fetch_user_fans_portrait",
+    "params": {
+        "sec_uid": "MS4wLjABAAAAnAZ470wpLSSVC_K_Bj8i_XfnHndbDVAXth0tN96-OeY",
+        "option": "3"
+    },
+    "data": {
+        "user_id": "MS4wLjABAAAAnAZ470wpLSSVC_K_Bj8i_XfnHndbDVAXth0tN96-OeY",
+        "option": "3",
+        "portrait": {
+            "portrait_data": [
+                {
+                    "value": 0.403171776696689,
+                    "name": "31-40"
+                },
+                {
+                    "value": 0.27926195196096276,
+                    "name": "24-30"
+                },
+                {
+                    "value": 0.12900591756725516,
+                    "name": "50-"
+                },
+                {
+                    "value": 0.12887802334561446,
+                    "name": "41-50"
+                },
+                {
+                    "value": 0.05968233042947863,
+                    "name": "18-23"
+                }
+            ],
+            "key": "31-40"
+        },
+        "portrait_tgi": {
+            "portrait_data": [
+                {
+                    "value": 52.37820862369263,
+                    "name": "50-"
+                },
+                {
+                    "value": 157.32944926520446,
+                    "name": "24-30"
+                },
+                {
+                    "value": 69.39158222179309,
+                    "name": "41-50"
+                },
+                {
+                    "value": 42.55168679685168,
+                    "name": "18-23"
+                },
+                {
+                    "value": 122.69944603613492,
+                    "name": "31-40"
+                }
+            ],
+            "key": "24-30"
+        }
+    }
+}
